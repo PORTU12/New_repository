@@ -1,5 +1,5 @@
 {
-  "name": "api-nestjs",
+  "name": "new_repository_2",
   "version": "0.0.1",
   "description": "<p align=\"center\">   <a href=\"http://nestjs.com/\" target=\"blank\"><img src=\"https://nestjs.com/img/logo_text.svg\" width=\"320\" alt=\"Nest Logo\" /></a> </p>",
   "author": "",
@@ -90,5 +90,13 @@
   "directories": {
     "test": "test"
   },
-  "keywords": []
+  "keywords": [],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PORTU12/New_repository.git"
+  },
+  "bugs": {
+    "url": "https://github.com/PORTU12/New_repository/issues"
+  },
+  "homepage": "https://github.com/PORTU12/New_repository#readme"
 }

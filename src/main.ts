@@ -13,6 +13,6 @@ async function bootstrap() {
   app.useGlobalPipes(new ValidationPipe());
   const document = SwaggerModule.createDocument(app, config);
   SwaggerModule.setup('api/doc', app, document);
-  await app.listen(2100);
+  await app.listen(3000);
 }
 bootstrap();

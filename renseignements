@@ -1,0 +1,15 @@
+Trois types de middleware morgan, helmet, cors
+middleware helmet use des outils to protect your app
+son installation est comme tout middleware.
+Avec app.use dans main.ts
+
+Query builder permettre de construire notre propre requête
+
+payload = partie des informations envoyée du token
+
+header = type + algo utilisee cryptage du token
+
+signature met le payload en base 64, 
+
+
+
